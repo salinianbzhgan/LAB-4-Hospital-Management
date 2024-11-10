@@ -6,7 +6,11 @@ It is very imporatant to maintain efficient software to handle information of a 
 This application provides a way to record this information and to access these in a simple way.
 
 ### UML DIAGRAMS:
+### USE CASE:
+![Uploading Screenshot 2024-11-10 191629.png…]()
 
+### CLASS DIAGRAM:
+### 
 
 
 
